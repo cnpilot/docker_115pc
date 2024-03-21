@@ -7,8 +7,9 @@
 最近终于抽出时间仔细看了一下，临时的解决方法就是把Web浏览器中的115pc相关的Cookie清除掉。
 
 操作方法比如：<https://support.google.com/chrome/answer/95647>
-
-
+```
+docker pull jlesage/baseimage-gui:debian-10-v4.5
+```
 ## 拉取镜像
 
 ```shell
